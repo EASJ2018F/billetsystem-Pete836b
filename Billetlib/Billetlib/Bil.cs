@@ -10,8 +10,7 @@ namespace Billetlib
     {
         private string _nummerplade;
         private DateTime _dato;
-        private int _pris;
-        private string _køretøj;
+        
 
         public string Nummerplade
         {
